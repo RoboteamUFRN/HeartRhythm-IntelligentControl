@@ -1,4 +1,4 @@
-Intelligent Control of Cardiac Rhythms using Artificial Neural Networks
+# Intelligent Control of Cardiac Rhythms using Artificial Neural Networks
 
 Gabriel S. Lima, gabriel.lima.095@ufrn.edu.br, 
 Wallace M. Bessa, wmobes@utu.fi,
